@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/didi2_library.iml" filepath="$PROJECT_DIR$/didi2_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/striking_arithmetic/striking_arithmetic.iml" filepath="$PROJECT_DIR$/striking_arithmetic/striking_arithmetic.iml" />
+    </modules>
+  </component>
+</project>
